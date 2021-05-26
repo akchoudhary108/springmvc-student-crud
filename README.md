@@ -19,4 +19,4 @@
 
 
 ## Run
-	Click on Project file name in project explorer -> Right Click -> Run As -> Run on Server
+	Click on Project file name in project explorer -> Right Click -> Run As -> Run on Server.
