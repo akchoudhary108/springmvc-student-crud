@@ -1,6 +1,6 @@
-##Spring MVC CRUD Application with MySQL and Hibernate
+# Spring MVC CRUD Application with MySQL and Hibernate
 
-### Prerequisites
+## Prerequisites
 
 	Software Used
 	1. JDK 1.8
@@ -10,7 +10,7 @@
 	5. Tomcat Server
 
 
-### Project Setup
+## Project Setup
 	1. Download Source Code.
 	2. Extract zip file.
 	3. Open Eclipse IDE.
@@ -18,5 +18,5 @@
 	5. Open MySQL Workbench -> Create Schema with name "schoolDB".
 
 
-### Run
+## Run
 	Click on Project file name in project explorer -> Right Click -> Run As -> Run on Server
