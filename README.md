@@ -1,4 +1,4 @@
-Spring MVC CRUD Application with MySQL and Hibernate
+##Spring MVC CRUD Application with MySQL and Hibernate
 
 ### Prerequisites
 
